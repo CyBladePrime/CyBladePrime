@@ -1,7 +1,8 @@
 ##
-- 👋 Hi, I’m @CybladePrime
+- 👋 Hi, I’m @CyBladePrime
 - 👀 Backend Java Developer
-- <span style="color: pink;">Sapphire Louise<span>'s Super Hyper Over Master Protector Dad.
+- <span style="color: red;"> Thais Araujo</span>'s luckiest man on earth husband.
+- <span style="color: pink;"> Sapphire Louise</span>'s Super Hyper Over Master Protector Dad.
 - _**May de Code be with you!**_
 
 <div align="center">
@@ -49,4 +50,3 @@
 CyBladePrime/CyBladePrime is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
