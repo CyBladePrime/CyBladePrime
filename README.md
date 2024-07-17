@@ -1,9 +1,9 @@
 ##
 - 👋 Hi, I’m @CyBladePrime
 - 👀 Backend Java Developer
-- <span style="color: red;"> _**Thais Araujo**_ </span>'s luckiest man on earth husband.
-- <span style="color: pink;"> _**Sapphire Louise**_ </span>'s Super Hyper Over Master Protector Dad.
-- _**May de Code be with you!**_
+- **_<span style="color: red;"> Thais Araujo </span>_** 's luckiest man on earth husband.
+- **_<span style="color: pink;"> Sapphire Louise</span>_**'s Super Hyper Over Master Protector Dad.
+- _**May the Code be with you!**_
 
 <div align="center">
   <a href="https://github.com/CyBladePrime">
