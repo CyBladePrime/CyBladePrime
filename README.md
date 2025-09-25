@@ -23,7 +23,7 @@ I am a Backend Java Developer with a passion for building robust and scalable ap
 - 👨‍👩‍👧 Husband to the incredible **<span style="color: red;"> Thais Araujo </span>** and the super-protector dad to **<span style="color: pink;"> Sapphire Louise</span>**.
 - 🌱 I’m currently learning more about Cloud Native technologies and distributed systems.
 - 💬 Ask me about **Java, Spring Boot, Microservices, and Clean Code**.
-- 📫 How to reach me: **[YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)**
+- 📫 How to reach me: **[YOUR_EMAIL@example.com](mailto:devcyblade@gmail.com)**
 - ✨ Fun fact: _May the Code be with you!_
 
 ---
