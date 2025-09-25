@@ -1,10 +1,10 @@
 <div align="center">
   
   <h1>
-    👋 Hi, I’m Marcelo Tavares (@CyBladePrime)
+    Hello, I’m Marcelo Tavares (@CyBladePrime)
   </h1>
   
-  <h3>A passionate Backend Developer from Brazil 🇧🇷</h3>
+  <h3>A passionate Backend Developer</h3>
 
   <p>
     Husband to the amazing <strong><span style="color: red;"> Thais Araujo </span></strong> ❤️ and the super protective dad of <strong><span style="color: pink;"> Sapphire Louise </span></strong> 👨‍👩‍👧.
