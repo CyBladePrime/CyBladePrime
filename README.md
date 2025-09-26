@@ -45,11 +45,6 @@ Here are the technologies I'm proficient in:
 
 ---
 
-### 📝 Latest Blog Posts
-
-- Check back soon for my latest articles!
----
-
 ### 📊 My GitHub Stats
 
 <div align="left">
