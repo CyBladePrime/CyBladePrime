@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=110&lines=Marcelo+CyBladePrime+Tavares;Backend+Java+Developer+%7C+Distributed+Systems;%E2%80%A2+Spring+Boot+%E2%80%A2+Spring+Batch+%E2%80%A2;MongoDB+%E2%80%A2+Microservices" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Marcelo+CyBladePrime+Tavares;Backend+Java+Developer+%7C+Distributed+Systems;Spring+Boot+%E2%80%A2+Spring+Batch+%E2%80%A2+MongoDB+%E2%80%A2+PostgreSQL;High-Throughput+Batch+Jobs+%E2%80%A2+Event+Orchestration" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -32,6 +32,14 @@ Experienced **Backend Software Engineer** focusing on high-throughput enterprise
 
 ---
 
+### 🏛️ Architecture & System Design
+
+* **Patterns & Paradigms:** Domain-Driven Design (DDD), Clean Architecture, Event-Driven Architecture (EDA), Microservices.
+* **Resilience & Batch Performance:** Distributed Locking, Idempotency, Partitioned Batch Processing, Chunk-oriented processing.
+* **Database Optimization:** Strategic Indexing, Query Profiling, Connection Pooling (HikariCP), ACID & BASE models.
+
+---
+
 ### 🚀 Tech Stack & Core Competencies
 
 **Languages & Frameworks**
@@ -49,6 +57,22 @@ Experienced **Backend Software Engineer** focusing on high-throughput enterprise
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+</p>
+
+**Testing & Code Quality**
+<p align="left">
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mockito-C5D58D?style=for-the-badge&logo=mockito&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Testcontainers-171A21?style=for-the-badge&logo=testcontainers&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+</p>
+
+**Observability & Telemetry**
+<p align="left">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fluentd-0E83C8?style=for-the-badge&logo=fluentd&logoColor=white"/>
 </p>
 
 **DevOps, Containers & Cloud**
@@ -70,11 +94,17 @@ Experienced **Backend Software Engineer** focusing on high-throughput enterprise
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyBladePrime/CyBladePrime/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyBladePrime/CyBladePrime/output/github-snake.svg">
-  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/CyBladePrime/CyBladePrime/output/github-snake.svg">
-</picture>
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyBladePrime/CyBladePrime/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyBladePrime/CyBladePrime/output/github-snake.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/CyBladePrime/CyBladePrime/output/github-snake.svg" width="100%"/>
+  </picture>
+</div>
+
+---
 
 ### 📊 GitHub Analytics
 
