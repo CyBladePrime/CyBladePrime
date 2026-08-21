@@ -1,13 +1,7 @@
 <div align="center">
-  <svg width="100%" height="160" viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="800" height="160" rx="12" fill="#0d1117"/>
-    <rect x="2" y="2" width="796" height="156" rx="10" stroke="#30363d" stroke-width="2"/>
-    <circle cx="28" cy="24" r="5" fill="#ff5f56"/>
-    <circle cx="44" cy="24" r="5" fill="#ffbd2e"/>
-    <circle cx="60" cy="24" r="5" fill="#27c93f"/>
-    <text x="50%" y="70" dominant-baseline="middle" text-anchor="middle" fill="#58a6ff" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="34">Marcelo Tavares</text>
-    <text x="50%" y="108" dominant-baseline="middle" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="16">Backend Java Developer • Microservices • Distributed Systems</text>
-  </svg>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=110&lines=Marcelo+Tavares;Backend+Java+Developer+%7C+Distributed+Systems;Spring+Boot+%E2%80%A2+Spring+Batch+%E2%80%A2+MongoDB+%E2%80%A2+Microservices" alt="Typing SVG" />
+  </a>
 
   <br/>
 
@@ -83,12 +77,4 @@ Experienced **Backend Software Engineer** focusing on high-throughput enterprise
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyBladePrime&layout=compact&langs_count=8&theme=tokyonight" height="175" alt="Top Languages"/>
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyBladePrime&theme=tokyonight" alt="Contribution Streak" />
-</div>
-
----
-
-<div align="center">
-  <svg width="100%" height="30" viewBox="0 0 800 30" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <line x1="0" y1="15" x2="800" y2="15" stroke="#30363d" stroke-width="1"/>
-  </svg>
 </div>
