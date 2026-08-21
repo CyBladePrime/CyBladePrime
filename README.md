@@ -109,8 +109,8 @@ Experienced **Backend Software Engineer** focusing on high-throughput enterprise
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyBladePrime&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="175" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyBladePrime&layout=compact&langs_count=8&theme=tokyonight" height="175" alt="Top Languages"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=CyBladePrime&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CyBladePrime&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyBladePrime&theme=tokyonight" alt="Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CyBladePrime&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 </div>
