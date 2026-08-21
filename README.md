@@ -1,8 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0052cc,100:002b66&height=260&section=header&text=Marcelo%20Tavares&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <svg width="100%" height="160" viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="800" height="160" rx="12" fill="#0d1117"/>
+    <rect x="2" y="2" width="796" height="156" rx="10" stroke="#30363d" stroke-width="2"/>
+    <circle cx="28" cy="24" r="5" fill="#ff5f56"/>
+    <circle cx="44" cy="24" r="5" fill="#ffbd2e"/>
+    <circle cx="60" cy="24" r="5" fill="#27c93f"/>
+    <text x="50%" y="70" dominant-baseline="middle" text-anchor="middle" fill="#58a6ff" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="700" font-size="34">Marcelo Tavares</text>
+    <text x="50%" y="108" dominant-baseline="middle" text-anchor="middle" fill="#8b949e" font-family="'Segoe UI', Ubuntu, sans-serif" font-weight="400" font-size="16">Backend Java Developer • Microservices • Distributed Systems</text>
+  </svg>
 
-  <h2>Backend Java Developer & Systems Analyst</h2>
-  <p>Specialized in High-Performance Microservices, Batch Processing & Distributed Architectures</p>
+  <br/>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/devcyblade/" target="_blank">
@@ -81,5 +88,7 @@ Experienced **Backend Software Engineer** focusing on high-throughput enterprise
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0052cc,100:002b66&height=120&section=footer" width="100%"/>
+  <svg width="100%" height="30" viewBox="0 0 800 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <line x1="0" y1="15" x2="800" y2="15" stroke="#30363d" stroke-width="1"/>
+  </svg>
 </div>
