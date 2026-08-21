@@ -70,6 +70,12 @@ Experienced **Backend Software Engineer** focusing on high-throughput enterprise
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyBladePrime/CyBladePrime/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyBladePrime/CyBladePrime/output/github-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/CyBladePrime/CyBladePrime/output/github-snake.svg">
+</picture>
+
 ### 📊 GitHub Analytics
 
 <div align="center">
